@@ -1,6 +1,6 @@
 # C Shell
 
-A small custom Unix-like shell written in C, featuring:
+A small custom LINUX-like shell written in C, featuring:
 
 - A **dynamic prompt** showing `username@hostname:cwd$`, with your launch directory as `~` and relative paths inside it.
 - A built‑in `hop` command for changing directories.
