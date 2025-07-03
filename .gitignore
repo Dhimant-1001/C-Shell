@@ -1,4 +1,7 @@
-*/
-*.log
-*.txt
+a.out
+shell
 *.exe
+*.log
+*.log.txt
+*.txt
+
