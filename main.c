@@ -102,7 +102,6 @@ int main() {
                 else
                     log_print();
             }
-<<<<<<< HEAD
             else if(strcmp(command, "proclore") == 0){
                 proclore(argument);
             }
@@ -120,8 +119,6 @@ int main() {
                 
                 seek(args, arg_count);
             }
-=======
->>>>>>> 79ae3697d99a3426a625ed17ac90da5f4a42daec
             else if (strcmp(command, "exit") == 0) 
                 return 0;
             else 
